@@ -12,6 +12,7 @@ career: assessed career stage
 tot_sec : total number of seconds taken
 
 #2
+
 time_series.csv includes data for analysis of temporal gender representation in FSBI symposium.
 first_name : first name of presenter
 year_symposium : year the symposium took place
